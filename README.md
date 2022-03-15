@@ -1,2 +1,1 @@
-# TestTaskForKataAcademy
-Calc
+# Тестовое задание для Kata Academy
