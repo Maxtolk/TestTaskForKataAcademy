@@ -1,0 +1,2 @@
+# TestTaskForKataAcademy
+Calc
